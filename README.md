@@ -1,16 +1,21 @@
+
+![Temp photo of me - Ryan Daley](https://v2.rpdaley.com/images/metaImage.jpeg)
 ### Hi there 👋
 
-<!--
-**ryanpdaley/ryanpdaley** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Ryan Daley (RP Daley) is a Software Developer in Toronto.
 
-Here are some ideas to get you started:
+He was previously a Developer at Shopify working in data and analytics, and a Web Application Developer at Bell Media, where he created the Chromecast project.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Other previous roles include:
+- Automation Engineer at Apple Inc. within the CarPlay team.
+- Early employee at Kobo (Rakuten Kobo) within the eReader Development team.
+- Intern and Campus ambassador for Research In Motion.
+
+
+He holds degrees from The University of British Columbia and The University of Guelph.
+
+He currently resides in Toronto, with his wife and dog!
+
+- 🔭 I’m currently working on [v2 of my personal website](https://v2.rpdaley.com/), a [recipes site](https://recipes.rpdaley.com/), and something secret 🤫
+- 🌱 I’m currently learning more [React](https://www.epicreact.dev/), more [Fullstack / web](https://www.epicweb.dev/), and [cybersecurity](https://learning.edx.org/course/course-v1:HarvardX+CS50CS+Cybersecurity/home)
+
